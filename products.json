@@ -1,0 +1,24 @@
+  {
+    id: 3,
+    title: "Jordan Stay Loyal 2",
+    subtitle: "Men's Shoes",
+    image:
+      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/47d9a468-f374-422c-8673-b150fad3ea5b/jordan-stay-loyal-2-shoes-LmJ6Fh.png",
+    price: 150,
+  },
+  {
+    id: 4,
+    title: "Nike Alphafly 2",
+    subtitle: "Men's Road Racing Shoes",
+    image:
+      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c24ddc33-6e38-4cc9-b548-dc48cd3528ea/alphafly-2-road-racing-shoes-1wG4D7.png",
+    price: 375,
+  },
+  {
+    id: 5,
+    title: "Nike Air Zoom LJ Elite",
+    subtitle: "Athletics Jumping Spikes",
+    image:
+      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8767244f-aca3-432e-bd9d-db83b3de0d7f/air-zoom-lj-elite-athletics-jumping-spikes-TJm9g9.png",
+    price: 190,
+  }
