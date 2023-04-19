@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6,
+    "title": "Nike Air More Uptempo '96",
+    "subtitle": "Men's Shoes",
+    "image":
+      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4a0b089a-8108-45e9-bae4-c3f9c14b09c9/air-more-uptempo-96-shoes-TK3FMT.png",
+    "price": 215
+  },
+  {
+    "id": 7,
+    "title": "Nike SuperRep Cycle 2 Next Nature",
+    "subtitle": "Indoor Cycling Shoes",
+    "image":
+      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6b91cd4b-9199-4f56-bd3c-121f5d9b86ec/superrep-cycle-2-next-nature-indoor-cycling-shoes-Gq9jmz.png",
+    "price": 160
+  },
+  {
+    "id": 8,
+    "title": "Jordan Retro 6 G",
+    "subtitle": "Men's Golf Shoes",
+    "image":
+      "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/474283ed-2265-4fc0-b394-04e0a379ce7c/jordan-retro-6-g-golf-shoes-Q8zxP8.png",
+    "price": 260
+  }
+]
